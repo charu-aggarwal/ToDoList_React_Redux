@@ -1,0 +1,44 @@
+.container{
+ background-color: lightblue;
+ width:100%;
+ height: 100%;
+  margin:0px; 
+  position: absolute;
+  
+}
+
+.displayItem{
+    display: flex;
+    justify-content:space-around;
+     border:solid 1px grey; 
+     background-color: bisque;
+     border-radius: 5px; 
+     margin: 10px; 
+     /* width: 50%; */
+     /* height: 50%; */
+     /* align-items: center; */
+     /* align-content: stretch; */
+    /* text-align: center; */
+    /* height:80%;
+    width: 80%; */
+    /* padding-top: 10px; */
+    /* align-items: center; */
+    /* padding-block-start: 10px; */
+}
+
+.displayTodo{
+    text-align: center;
+    border:solid 1px grey;
+    border-radius: 5px;
+    padding-left: 30%;
+    padding-right: 30%;
+/* background-color: grey; */
+}
+
+.btn-delete{
+
+background-color: grey;
+    align-items: center;
+    /* align-items: */
+
+}
